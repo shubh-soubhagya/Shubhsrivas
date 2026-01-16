@@ -45,14 +45,6 @@ Feel free to explore my repositories and projects! Your feedback and collaborati
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubh-soubhagya&theme=tokyonight" height="180px"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=shubh-soubhagya&theme=radical&hide_border=true" height="180px"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh-soubhagya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="180px"/>
-    </td>
-    <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-soubhagya&theme=tokyonight" />
     </td>
   </tr>
